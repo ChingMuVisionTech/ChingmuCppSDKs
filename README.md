@@ -1,4 +1,4 @@
-# ChingmuCppSDKs
+# ChingMuCppSDKs
 ChingMu Vrpn for C++  
 
 **插件下载：**  
